@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31614'
     url: http://www.gutenberg.org/2009/agents/31614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25851#The-Life-of-Charles-Dickens-Vol.-I-III-Complete
 gutenberg_issued: '2008-06-20'
 gutenberg_type: Text
 identifiers:
