@@ -1,0 +1,27 @@
+_repo: The-Life-of-Charles-Dickens-Vol.-I-III-Complete_25851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forster, John
+    birthdate: 1812
+    deathdate: 1876
+    gutenberg_agent_id: '31614'
+    url: http://www.gutenberg.org/2009/agents/31614
+description: ''
+gutenberg_issued: '2008-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+title: The Life of Charles Dickens, Vol. I-III, Complete
+url: http://www.gutenberg.org/ebooks/25851
